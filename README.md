@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hello there! 👋
 
-<!--
-**JoaoFelicissimo03/JoaoFelicissimo03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm João an aspiring **Data Analyst** interested in learning how to turn data into useful insights.
 
-Here are some ideas to get you started:
+## 📝 What I'm working on now
+- Building data analytics projects.
+- Learning SQL, Python and Power BI.
+- Improving my analytical and problem-solving skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tools I use
+- SQL  
+- Python  
+- Excel
+- PowerBI 
+
+## 📫 How to reach me
+- GitHub: you’re already here 🙂
+- Or if you prefer my Email and LinkedIn are right there on your left 👈
+
+## 🎲 Fun facts
+- I learn best by building and experimenting, not just watching tutorials  
+- I’m a big fan of *A Song of Ice and Fire* and its world 🐲🐺🦁 
+- My favorite game is *Elden Ring*, mostly for its atmosphere and lore  
+- Hobbies: gaming, gym, reading
