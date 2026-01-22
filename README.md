@@ -14,8 +14,8 @@ I'm João an aspiring **Data Analyst** interested in learning how to turn data i
 - PowerBI 
 
 ## 📫 How to reach me
-- GitHub: you’re already here 🙂
-- Or if you prefer my Email and LinkedIn are right there on your left 👈
+- GitHub: you’re already here
+- Or if you prefer my Email and LinkedIn
 
 ## 🎲 Fun facts
 - I learn best by building and experimenting, not just watching tutorials  
