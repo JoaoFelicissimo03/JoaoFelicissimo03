@@ -1,6 +1,6 @@
 ## Hello there! 👋
 
-I'm João an aspiring **Data Analyst** interested in learning how to turn data into useful insights.
+I'm João a **Data Analyst** interested in learning how to turn data into useful insights.
 
 ## 📝 What I'm working on now
 - Building data analytics projects.
