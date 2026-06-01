@@ -15,7 +15,7 @@ I'm João a **Data Analyst** interested in learning how to turn data into useful
 
 ## 📫 How to reach me
 - GitHub: you’re already here
-- Or if you prefer my Email and LinkedIn
+- Or if you prefer my [Email](joaofelicissimo98@gmail.com) and [LinkedIn](https://www.linkedin.com/in/joaofelicissimo07/)
 
 ## 🎲 Fun facts
 - I learn best by building and experimenting, not just watching tutorials  
