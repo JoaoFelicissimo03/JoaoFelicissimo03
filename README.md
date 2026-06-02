@@ -14,7 +14,7 @@ Transforming raw data into actionable business insights through analytical rigor
 
 ## 🎯 Professional Profile
 
-I am an aspiring **Data Analyst** and **Business Intelligence Analyst** dedicated to bridging the gap between complex data and strategic decision-making. Through structured certifications and hands-on project development, I have built a solid foundation in data modeling, dashboard development, and statistical analysis. I thrive on translating business requirements into clear, interactive visual solutions that drive efficiency and growth.
+I am a **Data Analyst** and **Business Intelligence Analyst** dedicated to bridging the gap between complex data and strategic decision-making. Through structured certifications and hands-on project development, I have built a solid foundation in data modeling, dashboard development, and statistical analysis. I thrive on translating business requirements into clear, interactive visual solutions that drive efficiency and growth.
 
 ---
 
