@@ -63,7 +63,7 @@ Executive BI Cockpit for Supply Chain Operations Management
 * Description: Built a complete end-to-end BI solution simulating a daily executive cockpit for a logistics company, covering data modelling, ETL pipeline, and a 3-page interactive dashboard with drill-down capabilities.
 * Key Deliverables: Star Schema in PostgreSQL with 6 tables, Python ETL pipeline loading 180K+ records, and advanced DAX measures using TREATAS() to solve cross-filtering between two fact tables.
 * Tech Stack: PostgreSQL, Python (pandas, psycopg2), Power BI, DAX.
-* 
+
 ---
 ## 🎲 Fun facts
 - I learn best by building and experimenting, not just watching tutorials  
