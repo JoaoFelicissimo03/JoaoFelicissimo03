@@ -76,5 +76,6 @@ Executive BI Cockpit for Supply Chain Operations Management
 
 <img width="120" height="120" alt="Professional_Certificate_-_Data_Analyst" src="https://github.com/user-attachments/assets/66cf5902-1b00-4232-a653-11cc7396d201" />     
 <img width="98" height="120" alt="DA Associate - badge with outline" src="https://github.com/user-attachments/assets/b9937c11-4419-4ac2-8248-457528492195" />
+<img width="120" height="120" alt="blob" src="https://github.com/user-attachments/assets/83279302-4475-42b1-96fe-586a67b17a59" />
 
 
