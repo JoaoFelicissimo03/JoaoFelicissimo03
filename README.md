@@ -85,6 +85,19 @@ Built a complete end-to-end BI solution simulating a daily executive cockpit for
 
 ---
 
+### 📈 [Oak Brew Excel Project](https://github.com/JoaoFelicissimo03/Oak-Brew-Excel-Project)
+> **Commercial Analytics, Advanced Reporting & Business Analysis**
+
+Built a comprehensive sales and inventory analysis toolkit for a mock beverage enterprise to clean legacy data and reveal growth opportunities.
+
+- **Key Deliverables:** Interactive executive summary dashboards utilizing pivot tables, dynamic arrays, advanced formulas, and automated data-cleaning pipelines.
+- **Tech Stack:** 
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel" />
+  <img src="https://img.shields.io/badge/Power_Query-50E6FF?style=flat-square&logo=microsoft&logoColor=black" alt="Power Query" />
+
+
+---
+
 <div align="center">
   
 ## 🎖️ Certifications
