@@ -1,42 +1,45 @@
 <div align="center">
 
-# João Felicíssimo
+# Hello, I'm João Felicíssimo! 👋
 
 ### **Data Analyst | Business Intelligence Analyst**
 
-Transforming raw data into actionable business insights through analytical rigor and interactive storytelling.
+Transforming raw data into actionable business insights through analytical rigor, robust data modeling, and interactive storytelling.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaofelicissimo07/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaofelicissimo98@gmail.com)
+[![Portfolio](https://img.shields.io/badge/GitHub-Portfolio-%23121011?style=for-the-badge&logo=github&logoColor=white)](#-featured-projects)
 
 ---
+
 </div>
 
 ## 🎯 Professional Profile
 
-I am a **Data Analyst** and **Business Intelligence Analyst** dedicated to bridging the gap between complex data and strategic decision-making. Through structured certifications and hands-on project development, I have built a solid foundation in data modeling, dashboard development, and statistical analysis. I thrive on translating business requirements into clear, interactive visual solutions that drive efficiency and growth.
+I am a **Data Analyst** and **Business Intelligence Analyst** dedicated to bridging the gap between complex data and strategic decision-making. Through structured certifications and hands-on project development, I have built a solid foundation in data modeling, dashboard development, and statistical analysis. I thrive on translating business requirements into clear, interactive visual solutions that drive efficiency and growth. 
 
 ---
 
-## 🛠️ Technical Stack
+## 🛠️ Technical Stack & Tools
 
 ### **Programming & Databases**
-⚡ _Data extraction, manipulation, and pipeline development_
+> _Data extraction, manipulation, advanced querying (Recursive CTEs, Window Functions)_
   
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ### **Analytics & Business Intelligence**
-📊 _Data visualization, reporting, and dashboard creation_
+> _Data visualization, ETL pipelines, DAX modeling, and reporting_
 
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![IBM Cognos](https://img.shields.io/badge/IBM_Cognos_Analytics-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ### **Geographic Information Systems (GIS)**
-🌍 _Spatial data analysis and mapping_
+> _Spatial data analysis and mapping (Folium, QGIS)_
 
 ![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
 ![ArcGIS](https://img.shields.io/badge/ArcGIS-0079c1?style=for-the-badge&logo=arcgis&logoColor=white)
@@ -46,36 +49,46 @@ I am a **Data Analyst** and **Business Intelligence Analyst** dedicated to bridg
 ## 🚀 Featured Projects
 
 ### 📊 [TerraBiotic Power BI Project](https://github.com/JoaoFelicissimo03/TerraBiotic_PowerBI_Project)
-**Business Intelligence Dashboard & Key Performance Indicators (KPIs)**
-*   **Description:** Developed an end-to-end BI solution tailored for corporate decision-makers, focusing on high-level KPI tracking, financial health, and operational metrics.
-*   **Key Deliverables:** Dynamic operational dashboards, robust star-schema data modeling, and advanced DAX measures for time-intelligence reporting.
-*   **Tech Stack:** Power BI, DAX, Power Query.
+> **Business Intelligence Dashboard & Key Performance Indicators (KPIs)**
 
-### 📈 [Oak Brew Excel Project](https://github.com/JoaoFelicissimo03/Oak-Brew-Excel-Project)
-**Commercial Analytics, Advanced Reporting & Business Analysis**
-*   **Description:** Built a comprehensive sales and inventory analysis toolkit for a mock beverage enterprise to clean legacy data and reveal growth opportunities.
-*   **Key Deliverables:** Interactive executive summary dashboards utilizing pivot tables, dynamic arrays, advanced formulas, and automated data-cleaning pipelines.
-*   **Tech Stack:** Microsoft Excel (Power Query, Pivot Charts, Advanced Formulas).
-
-### 📦 [BI Supply Chain Dashboard](https://github.com/JoaoFelicissimo03/bi-supply-chain)
-Executive BI Cockpit for Supply Chain Operations Management
-
-* Description: Built a complete end-to-end BI solution simulating a daily executive cockpit for a logistics company, covering data modelling, ETL pipeline, and a 3-page interactive dashboard with drill-down capabilities.
-* Key Deliverables: Star Schema in PostgreSQL with 6 tables, Python ETL pipeline loading 180K+ records, and advanced DAX measures using TREATAS() to solve cross-filtering between two fact tables.
-* Tech Stack: PostgreSQL, Python (pandas, psycopg2), Power BI, DAX.
+Developed an end-to-end BI solution tailored for corporate decision-makers, focusing on high-level KPI tracking, financial health, and operational metrics.
+- **Key Deliverables:** Dynamic operational dashboards, robust star-schema data modeling, and advanced DAX measures for time-intelligence reporting.
+- **Tech Stack:** 
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/DAX-005288?style=flat-square&logo=microsoft&logoColor=white" alt="DAX" />
 
 ---
-## 🎲 Fun facts
-- I learn best by building and experimenting, not just watching tutorials  
-- I’m a big fan of *A Song of Ice and Fire* and its world 🐲🐺🦁 
-- My favorite game is *Elden Ring*, mostly for its atmosphere and lore  
-- Hobbies: gaming, gym, reading
+
+### 🗺️ [NYC Airbnb Price & Spatial Analysis](https://github.com/JoaoFelicissimo03/AirbnbNY2024_EDA)
+> **Exploratory Data Analysis, Spatial Mapping & Market Regulation**
+
+Executed a comprehensive Python analysis on 2024 New York City Airbnb listings, examining price distributions, Local Law 18 licensing regulations, and geographical host patterns.
+- **Key Deliverables:** Extensive data cleaning, rating-price regressions, and interactive neighborhood distribution maps using Seaborn and Folium.
+- **Tech Stack:** 
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
+
+
+---
+
+### 📦 [BI Supply Chain Dashboard](https://github.com/JoaoFelicissimo03/bi-supply-chain)
+> **Executive BI Cockpit for Supply Chain Operations Management**
+
+Built a complete end-to-end BI solution simulating a daily executive cockpit for a logistics company, with drill-down capabilities.
+- **Key Deliverables:** Star Schema in PostgreSQL, Python ETL pipeline loading 180K+ records, and DAX measures using TREATAS() for cross-filtering fact tables.
+- **Tech Stack:** 
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
+
+
+---
 
 <div align="center">
   
 ## 🎖️ Certifications
 
-<div align="center">
   <table>
     <tr>
       <td align="center">
@@ -113,7 +126,3 @@ Executive BI Cockpit for Supply Chain Operations Management
     </tr>
   </table>
 </div>
-
-
-
-
