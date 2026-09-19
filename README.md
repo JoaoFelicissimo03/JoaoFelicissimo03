@@ -71,18 +71,11 @@ Executive BI Cockpit for Supply Chain Operations Management
 - My favorite game is *Elden Ring*, mostly for its atmosphere and lore  
 - Hobbies: gaming, gym, reading
 
----
 ## 📜 Certifications
 
-<img width="120" height="120" alt="Professional_Certificate_-_Data_Analyst" src="https://github.com/user-attachments/assets/16682bbf-adaf-4a56-a945-686090538390" />  
-
-<img width="98" height="120" alt="DA Associate - badge with outline" src="https://github.com/user-attachments/assets/b9937c11-4419-4ac2-8248-457528492195" />  
-
-<img width="120" height="120" alt="blob" src="https://github.com/user-attachments/assets/83279302-4475-42b1-96fe-586a67b17a59" />  
-
-<img width="120" height="120" alt="microsoft-power-bi-data-analyst-professional-certif" src="https://github.com/user-attachments/assets/4a085898-ef0e-4028-9eee-8e26861236f2" />  
-
-<img width="120" height="120" alt="blob" src="https://github.com/user-attachments/assets/b5bc8bd3-ae6b-41b5-ba81-1053b8676d5c" />  
+| IBM Data Analyst | Data Analyst Associate | Google BI | Microsoft Power BI | AI Professional |
+| :---: | :---: | :---: | :---: | :---: |
+| <a href="#"><img width="100" src="https://github.com/user-attachments/assets/16682bbf-adaf-4a56-a945-686090538390" alt="IBM Data Analyst"></a> | <a href="#"><img width="100" src="https://github.com/user-attachments/assets/b9937c11-4419-4ac2-8248-457528492195" alt="DA Associate"></a> | <a href="#"><img width="100" src="https://github.com/user-attachments/assets/83279302-4475-42b1-96fe-586a67b17a59" alt="Google BI"></a> | <a href="#"><img width="100" src="https://github.com/user-attachments/assets/4a085898-ef0e-4028-9eee-8e26861236f2" alt="Microsoft Power BI"></a> | <a href="#"><img width="100" src="https://github.com/user-attachments/assets/b5bc8bd3-ae6b-41b5-ba81-1053b8676d5c" alt="AI Professional"></a> |
 
 
 
