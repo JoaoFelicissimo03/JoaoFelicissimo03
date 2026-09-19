@@ -107,7 +107,7 @@ Executive BI Cockpit for Supply Chain Operations Management
     <tr>
       <td align="center"><b>IBM Data Analyst</b></td>
       <td align="center"><b>Data Analyst<br>Associate</b></td>
-      <td align="center"><b>Google BI</b></td>
+      <td align="center"><b>Google<br>Business Intelligence</b></td>
       <td align="center"><b>Microsoft<br>Power BI</b></td>
       <td align="center"><b>AI Professional</b></td>
     </tr>
