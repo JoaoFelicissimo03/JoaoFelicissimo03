@@ -71,11 +71,48 @@ Executive BI Cockpit for Supply Chain Operations Management
 - My favorite game is *Elden Ring*, mostly for its atmosphere and lore  
 - Hobbies: gaming, gym, reading
 
-## 📜 Certifications
+<div align="center">
+  
+## 🎖️ Certifications
 
-| IBM Data Analyst | Data Analyst Associate | Google BI | Microsoft Power BI | AI Professional |
-| :---: | :---: | :---: | :---: | :---: |
-| <a href="#"><img width="100" src="https://github.com/user-attachments/assets/16682bbf-adaf-4a56-a945-686090538390" alt="IBM Data Analyst"></a> | <a href="#"><img width="100" src="https://github.com/user-attachments/assets/b9937c11-4419-4ac2-8248-457528492195" alt="DA Associate"></a> | <a href="#"><img width="100" src="https://github.com/user-attachments/assets/83279302-4475-42b1-96fe-586a67b17a59" alt="Google BI"></a> | <a href="#"><img width="100" src="https://github.com/user-attachments/assets/4a085898-ef0e-4028-9eee-8e26861236f2" alt="Microsoft Power BI"></a> | <a href="#"><img width="100" src="https://github.com/user-attachments/assets/b5bc8bd3-ae6b-41b5-ba81-1053b8676d5c" alt="AI Professional"></a> |
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="#">
+          <img width="110" src="https://github.com/user-attachments/assets/16682bbf-adaf-4a56-a945-686090538390" alt="IBM Data Analyst">
+        </a>
+      </td>
+      <td align="center">
+        <a href="#">
+          <img width="110" src="https://github.com/user-attachments/assets/b9937c11-4419-4ac2-8248-457528492195" alt="Data Analyst Associate">
+        </a>
+      </td>
+      <td align="center">
+        <a href="#">
+          <img width="110" src="https://github.com/user-attachments/assets/83279302-4475-42b1-96fe-586a67b17a59" alt="Google Business Intelligence">
+        </a>
+      </td>
+      <td align="center">
+        <a href="#">
+          <img width="110" src="https://github.com/user-attachments/assets/4a085898-ef0e-4028-9eee-8e26861236f2" alt="Microsoft Power BI">
+        </a>
+      </td>
+      <td align="center">
+        <a href="#">
+          <img width="110" src="https://github.com/user-attachments/assets/b5bc8bd3-ae6b-41b5-ba81-1053b8676d5c" alt="AI Professional">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><b>IBM Data Analyst</b></td>
+      <td align="center"><b>Data Analyst<br>Associate</b></td>
+      <td align="center"><b>Google BI</b></td>
+      <td align="center"><b>Microsoft<br>Power BI</b></td>
+      <td align="center"><b>AI Professional</b></td>
+    </tr>
+  </table>
+</div>
 
 
 
