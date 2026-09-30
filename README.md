@@ -57,18 +57,6 @@ Developed an end-to-end BI solution tailored for corporate decision-makers, focu
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
   <img src="https://img.shields.io/badge/DAX-005288?style=flat-square&logo=microsoft&logoColor=white" alt="DAX" />
 
----
-
-### 🗺️ [NYC Airbnb Price & Spatial Analysis](https://github.com/JoaoFelicissimo03/AirbnbNY2024_EDA)
-> **Exploratory Data Analysis, Spatial Mapping & Market Regulation**
-
-Executed a comprehensive Python analysis on 2024 New York City Airbnb listings, examining price distributions, Local Law 18 licensing regulations, and geographical host patterns.
-- **Key Deliverables:** Extensive data cleaning, rating-price regressions, and interactive neighborhood distribution maps using Seaborn and Folium.
-- **Tech Stack:** 
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
-
 
 ---
 
