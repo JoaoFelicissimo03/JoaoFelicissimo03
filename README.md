@@ -109,7 +109,7 @@ Built a comprehensive sales and inventory analysis toolkit for a mock beverage e
       </td>
       <td align="center">
         <a href="#">
-          <img width="110" src="https://github.com/user-attachments/assets/4a085898-ef0e-4028-9eee-8e26861236f2" alt="Microsoft Power BI">
+          <img width="110" src="https://github.com/user-attachments/assets/236cf98b-8ddf-4b4f-bdc3-1705ab1b61d2" "alt="Microsoft Power BI">
         </a>
       </td>
       <td align="center">
@@ -122,7 +122,7 @@ Built a comprehensive sales and inventory analysis toolkit for a mock beverage e
       <td align="center"><b>IBM Data Analyst</b></td>
       <td align="center"><b>Data Analyst<br>Associate</b></td>
       <td align="center"><b>Google<br>Business Intelligence</b></td>
-      <td align="center"><b>Microsoft<br>Power BI</b></td>
+      <td align="center"><b>Microsoft Certified <br>Power BI <br> Data Analyst</b></td>
       <td align="center"><b>AI Professional</b></td>
     </tr>
   </table>
