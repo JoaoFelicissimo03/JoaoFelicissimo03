@@ -44,45 +44,6 @@ I am a **Data Analyst** and **Business Intelligence Analyst** dedicated to bridg
 ![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
 ![ArcGIS](https://img.shields.io/badge/ArcGIS-0079c1?style=for-the-badge&logo=arcgis&logoColor=white)
 
----
-
-## 🚀 Featured Projects
-
-### 📊 [TerraBiotic Power BI Project](https://github.com/JoaoFelicissimo03/TerraBiotic_PowerBI_Project)
-> **Business Intelligence Dashboard & Key Performance Indicators (KPIs)**
-
-Developed an end-to-end BI solution tailored for corporate decision-makers, focusing on high-level KPI tracking, financial health, and operational metrics.
-- **Key Deliverables:** Dynamic operational dashboards, robust star-schema data modeling, and advanced DAX measures for time-intelligence reporting.
-- **Tech Stack:** 
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/DAX-005288?style=flat-square&logo=microsoft&logoColor=white" alt="DAX" />
-
-
----
-
-### 📦 [BI Supply Chain Dashboard](https://github.com/JoaoFelicissimo03/bi-supply-chain)
-> **Executive BI Cockpit for Supply Chain Operations Management**
-
-Built a complete end-to-end BI solution simulating a daily executive cockpit for a logistics company, with drill-down capabilities.
-- **Key Deliverables:** Star Schema in PostgreSQL, Python ETL pipeline loading 180K+ records, and DAX measures using TREATAS() for cross-filtering fact tables.
-- **Tech Stack:** 
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
-
-
----
-
-### 📈 [Oak Brew Excel Project](https://github.com/JoaoFelicissimo03/Oak-Brew-Excel-Project)
-> **Commercial Analytics, Advanced Reporting & Business Analysis**
-
-Built a comprehensive sales and inventory analysis toolkit for a mock beverage enterprise to clean legacy data and reveal growth opportunities.
-
-- **Key Deliverables:** Interactive executive summary dashboards utilizing pivot tables, dynamic arrays, advanced formulas, and automated data-cleaning pipelines.
-- **Tech Stack:** 
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel" />
-  <img src="https://img.shields.io/badge/Power_Query-50E6FF?style=flat-square&logo=microsoft&logoColor=black" alt="Power Query" />
-
 
 ---
 
