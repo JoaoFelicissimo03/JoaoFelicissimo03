@@ -60,7 +60,7 @@ I am a **Data Analyst** and **Business Intelligence Analyst** dedicated to bridg
       </td>
       <td align="center">
         <a href="#">
-          <img width="110" src="https://github.com/user-attachments/assets/b9937c11-4419-4ac2-8248-457528492195" alt="Data Analyst Associate">
+          <img width="110" src="https://github.com/user-attachments/assets/40fe157a-af3a-412d-8f49-fbf849bba99c" alt="Data Analyst">
         </a>
       </td>
       <td align="center">
@@ -70,7 +70,7 @@ I am a **Data Analyst** and **Business Intelligence Analyst** dedicated to bridg
       </td>
       <td align="center">
         <a href="#">
-          <img width="110" src="https://github.com/user-attachments/assets/236cf98b-8ddf-4b4f-bdc3-1705ab1b61d2" "alt="Microsoft Power BI">
+          <img width="110" src="https://github.com/user-attachments/assets/236cf98b-8ddf-4b4f-bdc3-1705ab1b61d2" alt="Microsoft Power BI">
         </a>
       </td>
       <td align="center">
@@ -81,7 +81,7 @@ I am a **Data Analyst** and **Business Intelligence Analyst** dedicated to bridg
     </tr>
     <tr>
       <td align="center"><b>IBM Data Analyst</b></td>
-      <td align="center"><b>Data Analyst<br>Associate</b></td>
+      <td align="center"><b>Datacamp<br>Data Analyst</b></td>
       <td align="center"><b>Google<br>Business Intelligence</b></td>
       <td align="center"><b>Microsoft Certified <br>Power BI <br> Data Analyst</b></td>
       <td align="center"><b>AI Professional</b></td>
